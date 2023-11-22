@@ -48,7 +48,11 @@
                                     </svg>
                                 </div>
 
+<<<<<<< HEAD
                                 <h2 class="mt-6 text-xl font-semibold text-gray-90 dark:text-white">Doocumentation</h2>
+=======
+                                <h2 class="mt-6 text-xl font-semibold text-gray-90 dark:text-white">DDoocumenttation</h2>
+>>>>>>> 28ad505e96f3d0c7d0eac036b753b370323f0a2f
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
                                     Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
